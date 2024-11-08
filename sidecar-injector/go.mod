@@ -1,4 +1,4 @@
-module github.com/krvarma/wh
+module injector
 
 go 1.14
 
